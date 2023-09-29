@@ -1,7 +1,7 @@
 ![logo](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 <h1 align="center">Hi 👋, I'm Raahul👾</h1>
 <h3 align="center">“Copy-and-Paste was programmed by programmers for programmers actually.”</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.c0d1b11e54c2b07f7353dd160e8ba80d?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1059583%2fscreenshots%2f4171367%2fcoding-freak.gif&ehk=lm8USaegpIM08X3NbwFPQMr7SjSKU%2f%2faFj7rYY0odvA%3d">
+<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.75c2f842863ae2df6b3ac2d0a4d63026?pid=1.7&rurl=https%3a%2f%2fmedia0.giphy.com%2fmedia%2f26tn33aiTi1jkl6H6%2fgiphy.gif&ehk=fV4Mf2TpwiIRGBx5OKa6Uv7RTJGfI843jxXRwEAP4XA%3d">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raahul-01&label=Profile%20views&color=0e75b6&style=flat" alt="raahul-01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/incognitoavl" target="blank"><img src="https://img.shields.io/twitter/follow/incognitoavl?logo=twitter&style=for-the-badge" alt="incognitoavl" /></a> </p>
