@@ -27,8 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raahul-01&" alt="raahul-01" /></p>
 
-
-
-
-![snake gif](https://github.com/Raahul-01/Raahul-01/blob/output/github-contribution-grid-snake.gif)
-
+![snake gif](https://github.com/Raahul-01/Raahul-01/raw/output/github-contribution-grid-snake.gif)
+    
